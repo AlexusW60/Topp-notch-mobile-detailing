@@ -71,9 +71,7 @@
   img {
     max-width: 100%;
     height: auto;
-  }
-}
-.header img {
+  }.header img {
     width: 90px !important;
     max-width: 90px !important;
     height: 90px !important;
@@ -83,4 +81,5 @@
 
 .header {
     background: transparent !important;
+}
 }
